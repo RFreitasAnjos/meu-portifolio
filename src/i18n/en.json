@@ -1,0 +1,35 @@
+{
+  "navbar": {
+    "about": "About Me",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Fullstack Developer",
+    "subtitle": "Make your business with technology."
+  },
+  "about": {
+    "title": "About Me",
+    "text": "I am driven by technology and passionate about innovation. I constantly seek new challenges that push me out of my comfort zone, exploring possibilities, breaking limits, and turning ideas into real solutions. My journey is guided by the enthusiasm to solve complex problems and collaborate on creative, technological projects that make an impact. I believe in the power of adaptation, boldness, and the will to always go further. If you also see innovation as the result of courage, we are aligned."
+  },
+  "projects": {
+    "title": "Projects",
+    "project_1": "Mobile app designed to serve fans of the same team.",
+    "project_2": "ChatBot channel for assisting employees via WhatsApp.",
+    "project_3": "Travel agency inspired by Booking and Trivago, built with React and ASP.NET."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Send an e-mail",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "send": "Send",
+    "social":"Social Media",
+    "WhatsApp": "Talk on WhatsApp"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}
