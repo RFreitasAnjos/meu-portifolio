@@ -2,7 +2,7 @@
   "name": "meu-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://rfreitasdosanjos.github.io/meu-portfolio",
+  "homepage":"https://RFreitasAnjos.github.io/meu-portfolio",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@headlessui/react": "^2.2.7",
