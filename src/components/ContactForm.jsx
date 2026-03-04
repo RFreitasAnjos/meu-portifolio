@@ -101,15 +101,27 @@ function ContactForm() {
             <div className="bg-white p-6 rounded-lg shadow-md">
                <h2 className="text-2xl font-bold mb-4">{t("contact.social")}</h2>
                <div className="flex flex-col gap-4">
-                  <a href="https://www.instagram.com/p.yxis/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-pink-500 hover:text-pink-600">
-                     <FaInstagram /> Instagram
-                  </a>
-                  <a href="https://linkedin.com/in/renanfreitasdev" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-blue-700 hover:text-blue-800">
-                     <FaLinkedinIn /> LinkedIn
+
+                  {/* Instagram Card */}
+                  <a
+                     href="https://www.instagram.com/profvictoriamaria"
+                     target="_blank"
+                     rel="noopener noreferrer"
+                     className="relative bg-gradient-to-br from-pink-500 via-purple-500 to-yellow-400 rounded-xl shadow-lg overflow-hidden h-60 flex items-center justify-center hover:scale-105 transition-transform duration-300"
+                  >
+                     <div className="absolute inset-0 bg-[url('https://res.cloudinary.com/exercice-disp/image/upload/v1772631056/1000064193_d78wyo.jpg')] bg-cover bg-center opacity-30"></div>
+                     <FaInstagram className="text-white text-4xl z-10" />
+                     <span className="absolute bottom-2 right-2 text-white font-bold z-10 text-sm">Instagram</span>
                   </a>
                </div>
                <div className="mt-6 flex flex-col gap-2">
-                  <a href="portfolio.pdf" 
+                  <a 
+                     href="https://linkedin.com/in/renanfreitasdev" 
+                     target="_blank" rel="noopener noreferrer"
+                     className="bg-blue-800 text-white flex items-center justify-center gap-2 py-2 px-4 rounded hover:bg-blue-900 transition text-center">
+                     <FaLinkedinIn /> LinkedIn
+                  </a>
+                  <a href="portfolio.pdf"
                      download
                      className="bg-gray-800 text-white flex justify-center gap-4 py-2 px-4 rounded hover:bg-gray-900 transition text-center">
                      <DownloadIcon /> Download Portfólio

@@ -10,7 +10,7 @@ function About() {
       {/* Imagem */}
       <div className="flex justify-center md:justify-center">
         <img
-          src="https://res.cloudinary.com/exercice-disp/image/upload/v1755554734/Screenshot_20240125_125205_Instagram-Photoroom_ox93hj.png"
+          src="https://res.cloudinary.com/exercice-disp/image/upload/v1772630542/1000064196_sybxko.jpg"
           alt="my-photo"
           className="w-72 h-64 object-cover rounded-l-xl shadow-xl border-2 border-gray-500 bg-gradient-to-tl from-blue-700 to-violet-800 hover:scale-105 transition-transform duration-300"
         />

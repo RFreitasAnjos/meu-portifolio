@@ -1,6 +1,7 @@
 {
   "navbar": {
     "about": "About Me",
+    "certified": "Certified",
     "projects": "Projects",
     "contact": "Contact"
   },
@@ -11,6 +12,9 @@
   "about": {
     "title": "About Me",
     "text": "I am driven by technology and passionate about innovation. I constantly seek new challenges that push me out of my comfort zone, exploring possibilities, breaking limits, and turning ideas into real solutions. My journey is guided by the enthusiasm to solve complex problems and collaborate on creative, technological projects that make an impact. I believe in the power of adaptation, boldness, and the will to always go further. If you also see innovation as the result of courage, we are aligned."
+  },
+  "certified": {
+    "title": "Certified"
   },
   "projects": {
     "title": "Projects",
@@ -26,7 +30,7 @@
     "phone": "Phone",
     "message": "Message",
     "send": "Send",
-    "social":"Social Media",
+    "social": "Social Media",
     "WhatsApp": "Talk on WhatsApp"
   },
   "footer": {
