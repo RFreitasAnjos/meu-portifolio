@@ -1,0 +1,39 @@
+{
+   "navbar": {
+     "about": "Sobre Mí",
+     "certified": "Certificaciones",
+     "projects": "Proyectos",
+     "contact": "Contacto"
+   },
+   "hero": {
+     "title": "Desarrollador Fullstack",
+     "subtitle": "Haz crecer tu negocio con tecnología."
+   },
+   "about": {
+     "title": "Sobre Mí",
+     "text": "Estoy impulsado por la tecnología y apasionado por la innovación. Busco constantemente nuevos desafíos que me saquen de mi zona de confort, explorando posibilidades, rompiendo límites y convirtiendo ideas en soluciones reales. Mi viaje está guiado por el entusiasmo de resolver problemas complejos y colaborar en proyectos creativos y tecnológicos que tengan un impacto. Creo en el poder de la adaptación, la audacia y la voluntad de siempre ir más allá. Si tú también ves la innovación como el resultado del coraje, estamos alineados."
+   },
+   "certified": {
+     "title": "Certificaciones"
+   },
+   "projects": {
+     "title": "Proyectos",
+     "project_1": "Aplicación móvil diseñada para servir a los fanáticos del mismo equipo.",
+     "project_2": "Canal de ChatBot para asistir a empleados vía WhatsApp.",
+     "project_3": "Agencia de viajes inspirada en Booking y Trivago, construida con React y ASP.NET."
+   },
+   "contact": {
+     "title": "Ponte en Contacto",
+     "subtitle": "Envíame un correo electrónico",
+     "name": "Nombre",
+     "email": "Correo electrónico",
+     "phone": "Teléfono",
+     "message": "Mensaje",
+     "send": "Enviar",
+     "social": "Redes Sociales",
+     "WhatsApp": "Hablar por WhatsApp"
+   },
+   "footer": {
+     "rights": "Todos los derechos reservados"
+   }
+}
